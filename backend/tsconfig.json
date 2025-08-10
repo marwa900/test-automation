@@ -23,6 +23,6 @@
     "noFallthroughCasesInSwitch": false,
 
   },
-    "include": ["src/**/*.ts", "api.test.js", "tests/**/*.ts"]
+    "include": ["src/**/*.ts", "test/api.test.spec.ts", "tests/**/*.ts"]
 
 }
