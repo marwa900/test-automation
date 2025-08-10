@@ -24,7 +24,7 @@ jobs:
         run: npm install
 
       - name: Run backend API tests
-        run: npm run test:api
+        run: npm run test
 
   frontend-tests:
     runs-on: ubuntu-latest
